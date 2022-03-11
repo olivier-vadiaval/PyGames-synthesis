@@ -1,6 +1,8 @@
 # PyGames-synthesis
 A synthesizer and DSL for generating strategies for playing Catcher game.
 
+### See report about past experiments [here](https://github.com/olivier-vadiaval/PyGames-synthesis/blob/main/report_summer2021.pdf).
+  
 ## Dependencies
 
 ```
